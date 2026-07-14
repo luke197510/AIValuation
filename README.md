@@ -1,5 +1,7 @@
 # AIValuation — Predizione valori immobiliari da quotazioni OMI
 
+https://aivaluationwilly.streamlit.app/
+
 Progetto ML per la predizione del valore di compravendita (€/m²) a partire dalle
 quotazioni OMI (Agenzia delle Entrate), come **range** (min–max) o **valore puntuale**
 (punto medio del range predetto).
