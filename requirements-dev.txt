@@ -1,0 +1,7 @@
+# Ambiente locale completo: training, inferenza batch e app.
+# Versioni allineate a quelle usate per addestrare models/quantile_bundle.joblib:
+# i pickle di scikit-learn NON sono compatibili tra versioni diverse.
+-r requirements.txt
+pandas==3.0.3
+scikit-learn==1.9.0
+joblib>=1.4

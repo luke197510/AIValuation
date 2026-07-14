@@ -1,0 +1,9 @@
+# Dati sorgente e artefatti locali pesanti: NON vanno nel repo.
+# L'app deployata usa solo app_data/ (stime precalcolate).
+DatasetOMI/
+omi.db
+models/
+.venv/
+__pycache__/
+*.pyc
+.claude/

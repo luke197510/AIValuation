@@ -1,0 +1,5 @@
+# Dipendenze dell'app Streamlit (usate anche da Streamlit Community Cloud).
+# Per il training/inferenza locale vedi requirements-dev.txt
+streamlit>=1.40
+pandas>=2.2
+pyarrow>=17
